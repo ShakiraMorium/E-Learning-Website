@@ -3,3 +3,6 @@
     justify-align-items:center;
    
 }
+.half-width img{
+    width:500px;
+}
