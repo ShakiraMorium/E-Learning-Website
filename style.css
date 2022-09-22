@@ -6,3 +6,11 @@
 .half-width img{
     width:500px;
 }
+.fa-quote-right{
+    font-size:80px;
+    color:grey;
+}
+.fa-star, .fa-star-half-stroke{
+    color:gold;
+    display:end;
+}
